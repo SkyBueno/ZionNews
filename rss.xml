@@ -1,0 +1,47 @@
+<rss
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+	<channel>
+		<title>ZION LOGTEC</title>
+		<description>ZION LOGTEC</description>
+		<link>https://zionlogtec.com.br/conteudo/blog/</link>
+		<image>
+			<url>https://zionlogtec.com.br/wp-content/uploads/2019/10/cropped-logo-zion-192x192.png</url>
+			<title>ZION LOGTEC</title>
+			<link>https://zionlogtec.com.br/conteudo/blog/</link>
+		</image>
+		<generator>https://rss.app</generator>
+		<lastBuildDate>Mon, 16 Dec 2024 14:19:19 GMT</lastBuildDate>
+		<atom:link href="https://rss.app/feeds/5WFXRBXtRJ2449gK.xml" rel="self" type="application/rss+xml"/>
+		<language>pt-BR</language>
+
+		<item>
+			<title><![CDATA[ Maximize a Eficiência Logística: A Integração Estratégica entre YMS e WMS ]]></title>
+			<description><![CDATA[ <img src="https://zionlogtec.com.br/wp-content/uploads/2024/12/Relacao-com-YMS-848x420.png" style="width: 100%;" /> O YMS (Yard Management System) é uma ferramenta essencial... ]]></description>
+			<link>https://zionlogtec.com.br/maximizeaeficiencialogistica/</link>
+			<guid isPermaLink="false">db68e96f7d68e60c8f283bb095fc77cf</guid>
+			<pubDate>Tue, 03 Dec 2024 12:00:00 GMT</pubDate>
+			<media:content medium="image" url="https://zionlogtec.com.br/wp-content/uploads/2024/12/Relacao-com-YMS-848x420.png"/>
+		</item>
+
+		<item>
+			<title><![CDATA[ Preparação para a Alta Temporada: Estratégias Logísticas para um Fim de Ano de Sucesso ]]></title>
+			<description><![CDATA[ <img src="https://zionlogtec.com.br/wp-content/uploads/2024/09/capa-blog-848x420.jpg" style="width: 100%;" /> A alta temporada de compras... ]]></description>
+			<link>https://zionlogtec.com.br/preparacao-para-a-alta-temporada-estrategias-logisticas-para-um-fim-de-ano-de-sucesso/</link>
+			<guid isPermaLink="false">0f51a5357674d87da88dd0c4b5d95f65</guid>
+			<pubDate>Thu, 05 Sep 2024 12:00:00 GMT</pubDate>
+			<media:content medium="image" url="https://zionlogtec.com.br/wp-content/uploads/2024/09/capa-blog-848x420.jpg"/>
+		</item>
+
+		<item>
+			<title><![CDATA[ Automação na Logística de Armazenagem: Por Que as Empresas Estão Investindo Nisso? ]]></title>
+			<description><![CDATA[ <img src="https://zionlogtec.com.br/wp-content/uploads/2024/08/blog-automacao-16x9-1-848x420.jpg" style="width: 100%;" /> Nos últimos anos, a automação tem revolucionado... ]]></description>
+			<link>https://zionlogtec.com.br/automacao-na-logistica-de-armazenagem-por-que-as-empresas-estao-investindo-nisso/</link>
+			<guid isPermaLink="false">3c4ca6b6b501a1d28090b6e40de0c1d8</guid>
+			<pubDate>Thu, 22 Aug 2024 12:00:00 GMT</pubDate>
+			<media:content medium="image" url="https://zionlogtec.com.br/wp-content/uploads/2024/08/blog-automacao-16x9-1-848x420.jpg"/>
+		</item>
+	</channel>
+</rss>
