@@ -1,47 +1,89 @@
 <rss
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
-		<title>ZION LOGTEC</title>
-		<description>ZION LOGTEC</description>
+		<title>Zion Logtec - Blog</title>
 		<link>https://zionlogtec.com.br/conteudo/blog/</link>
-		<image>
-			<url>https://zionlogtec.com.br/wp-content/uploads/2019/10/cropped-logo-zion-192x192.png</url>
-			<title>ZION LOGTEC</title>
-			<link>https://zionlogtec.com.br/conteudo/blog/</link>
-		</image>
-		<generator>https://rss.app</generator>
-		<lastBuildDate>Mon, 16 Dec 2024 14:19:19 GMT</lastBuildDate>
-		<atom:link href="https://rss.app/feeds/5WFXRBXtRJ2449gK.xml" rel="self" type="application/rss+xml"/>
 		<language>pt-BR</language>
-
+		<atom:link href="https://rss.app/feeds/5WFXRBXtRJ2449gK.xml" rel="self" type="application/rss+xml"/>
 		<item>
 			<title><![CDATA[ Maximize a Eficiência Logística: A Integração Estratégica entre YMS e WMS ]]></title>
-			<description><![CDATA[ <img src="https://zionlogtec.com.br/wp-content/uploads/2024/12/Relacao-com-YMS-848x420.png" style="width: 100%;" /> O YMS (Yard Management System) é uma ferramenta essencial... ]]></description>
+			<meta property="og:image" content="https://zionlogtec.com.br/wp-content/uploads/2024/12/Relacao-com-YMS-848x420.png"/>
 			<link>https://zionlogtec.com.br/maximizeaeficiencialogistica/</link>
-			<guid isPermaLink="false">db68e96f7d68e60c8f283bb095fc77cf</guid>
-			<pubDate>Tue, 03 Dec 2024 12:00:00 GMT</pubDate>
-			<media:content medium="image" url="https://zionlogtec.com.br/wp-content/uploads/2024/12/Relacao-com-YMS-848x420.png"/>
+			<pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+			<guid>https://zionlogtec.com.br/maximizeaeficiencialogistica/</guid>
+			<description>“O YMS (Yard Management System) é uma ferramenta essencial para a logística de empresas que lidam com grandes volumes de movimentação de veículos, cargas de alto valor agregado...</description>
 		</item>
-
 		<item>
-			<title><![CDATA[ Preparação para a Alta Temporada: Estratégias Logísticas para um Fim de Ano de Sucesso ]]></title>
-			<description><![CDATA[ <img src="https://zionlogtec.com.br/wp-content/uploads/2024/09/capa-blog-848x420.jpg" style="width: 100%;" /> A alta temporada de compras... ]]></description>
-			<link>https://zionlogtec.com.br/preparacao-para-a-alta-temporada-estrategias-logisticas-para-um-fim-de-ano-de-sucesso/</link>
-			<guid isPermaLink="false">0f51a5357674d87da88dd0c4b5d95f65</guid>
-			<pubDate>Thu, 05 Sep 2024 12:00:00 GMT</pubDate>
-			<media:content medium="image" url="https://zionlogtec.com.br/wp-content/uploads/2024/09/capa-blog-848x420.jpg"/>
+			<title>Grafana LLM plugin updates: choose the large language models and providers that work best for you</title>
+			<meta property="og:image" content="https://grafana.com/media/blog/llm-plugin-updates/LLM-plugin-updates-meta1.png"/>
+			<link>https://grafana.com/blog/2024/12/18/grafana-llm-plugin-updates-choose-the-large-language-models-and-providers-that-work-best-for-you/?utm_source=grafana_news&utm_medium=rss</link>
+			<pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+			<guid>https://grafana.com/blog/2024/12/18/grafana-llm-plugin-updates-choose-the-large-language-models-and-providers-that-work-best-for-you/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+			<description>At Grafana Labs, our mission has always been to empower users with the tools they need to build their own observability solutions. Our big tent philosophy embodies this mission by allowing you to choose the tools and technologies that best suit your needs.</description>
 		</item>
-
 		<item>
-			<title><![CDATA[ Automação na Logística de Armazenagem: Por Que as Empresas Estão Investindo Nisso? ]]></title>
-			<description><![CDATA[ <img src="https://zionlogtec.com.br/wp-content/uploads/2024/08/blog-automacao-16x9-1-848x420.jpg" style="width: 100%;" /> Nos últimos anos, a automação tem revolucionado... ]]></description>
-			<link>https://zionlogtec.com.br/automacao-na-logistica-de-armazenagem-por-que-as-empresas-estao-investindo-nisso/</link>
-			<guid isPermaLink="false">3c4ca6b6b501a1d28090b6e40de0c1d8</guid>
-			<pubDate>Thu, 22 Aug 2024 12:00:00 GMT</pubDate>
-			<media:content medium="image" url="https://zionlogtec.com.br/wp-content/uploads/2024/08/blog-automacao-16x9-1-848x420.jpg"/>
+			<title>How to securely connect Grafana to Google BigQuery using Workload Identity Federation</title>
+			<meta property="og:image" content="https://grafana.com/media/blog/bigquery-grafana/bigquery-meta5.png"/>
+			<link>https://grafana.com/blog/2024/12/17/how-to-securely-connect-grafana-to-google-bigquery-using-workload-identity-federation/?utm_source=grafana_news&utm_medium=rss</link>
+			<pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+			<guid>https://grafana.com/blog/2024/12/17/how-to-securely-connect-grafana-to-google-bigquery-using-workload-identity-federation/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+			<description>Umesh Pawar is a Senior Cloud Engineer at Searce, and is also the co-organizer of the Grafana and Friends Delhi Group. Umesh has been focused on infrastructure and app modernization, as well as observability solutions including the Grafana LGTM Stack, for the past two years.</description>
+		</item>
+		<item>
+			<title>2025 observability predictions and trends from Grafana Labs</title>
+			<meta property="og:image" content="https://grafana.com/media/blog/2025-predictions/EOY-predictions-meta.png"/>
+			<link>https://grafana.com/blog/2024/12/16/2025-observability-predictions-and-trends-from-grafana-labs/?utm_source=grafana_news&utm_medium=rss</link>
+			<pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+			<guid>https://grafana.com/blog/2024/12/16/2025-observability-predictions-and-trends-from-grafana-labs/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+			<description>From AI to eBPF, 2024 reshaped the observability landscape. As we peer into 2025, Grafana Labs&rsquo; experts predict another year of innovation that will redefine how teams understand and optimize their systems, from profiling to platform engineering.</description>
+		</item>
+		<item>
+			<title>Grafana Labs: Top 10 moments of 2024</title>
+			<meta property="og:image" content="https://grafana.com/media/blog/2024-top-10-moments/2024-top-10-moments-meta.png"/>
+			<link>https://grafana.com/blog/2024/12/13/grafana-labs-top-10-moments-of-2024/?utm_source=grafana_news&utm_medium=rss</link>
+			<pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+			<guid>https://grafana.com/blog/2024/12/13/grafana-labs-top-10-moments-of-2024/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+			<description>2024 was a year of making connections. The open source community gathered in person for GrafanaCON for the first time in five years — meeting in Amsterdam to celebrate Grafana 11, Loki 3.</description>
+		</item>
+		<item>
+			<title>PromQL vector matching: what it is and how it affects your Prometheus queries</title>
+			<meta property="og:image" content="https://grafana.com/media/blog/promql-vector-matching/promQL-vector-matching-meta.png"/>
+			<link>https://grafana.com/blog/2024/12/13/promql-vector-matching-what-it-is-and-how-it-affects-your-prometheus-queries/?utm_source=grafana_news&utm_medium=rss</link>
+			<pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+			<guid>https://grafana.com/blog/2024/12/13/promql-vector-matching-what-it-is-and-how-it-affects-your-prometheus-queries/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+			<description>Dawid Dębowski is a software engineer at G2A.COM and a Grafana Champion. Holding an MS of Computer Science, Dawid’s main fields of interest related to observability are PromQL and data visualizations using Grafana.</description>
+		</item>
+		<item>
+			<title>Open source at Grafana Labs: 2024 year in review</title>
+			<meta property="og:image" content="https://grafana.com/media/blog/oss-2024/open-source-2024-meta.png"/>
+			<link>https://grafana.com/blog/2024/12/11/open-source-at-grafana-labs-2024-year-in-review/?utm_source=grafana_news&utm_medium=rss</link>
+			<pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+			<guid>https://grafana.com/blog/2024/12/11/open-source-at-grafana-labs-2024-year-in-review/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+			<description>Open source has always been the bedrock for everything we build here at Grafana Labs, going all the way back to Grafana creator Torkel Ödegaard&rsquo;s first commit in December 2013.</description>
+		</item>
+		<item>
+			<title>Grafana Cloud in 2024: Year in review</title>
+			<meta property="og:image" content="https://grafana.com/media/blog/grafana-cloud-in-2024/grafana_cloud_2024.png"/>
+			<link>https://grafana.com/blog/2024/12/10/grafana-cloud-in-2024-year-in-review/?utm_source=grafana_news&utm_medium=rss</link>
+			<pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+			<guid>https://grafana.com/blog/2024/12/10/grafana-cloud-in-2024-year-in-review/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+			<description>Throughout 2024, we made a ton of updates to Grafana Cloud, our fully managed, cloud-hosted observability platform powered by the Grafana LGTM (Loki for logs, Grafana for visualization, Tempo for traces, Mimir for metrics) Stack.</description>
+		</item>
+		<item>
+			<title>Save the date: GrafanaCON 2025 is coming to Seattle in May!</title>
+			<meta property="og:image" content="https://grafana.com/media/blog/grafanacon-2025-save-the-date/gcon_2025_save_the_date_meta.png"/>
+			<link>https://grafana.com/blog/2024/12/10/save-the-date-grafanacon-2025-is-coming-to-seattle-in-may/?utm_source=grafana_news&utm_medium=rss</link>
+			<pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+			<guid>https://grafana.com/blog/2024/12/10/save-the-date-grafanacon-2025-is-coming-to-seattle-in-may/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+			<description>We’re excited to share that GrafanaCON 2025 will take place May 6-8 in Seattle! We hope you’ll join us at our biggest community event of the year for three days of technical sessions, live demos, user stories, our Ask-the-Experts booth, and more.</description>
+		</item>
+		<item>
+			<title>Grafana community dashboards: Memorable use cases of 2024</title>
+			<meta property="og:image" content="https://grafana.com/media/blog/2024-memorable-dashboards/metaimage-2024-memorable-dashboards.png"/>
+			<link>https://grafana.com/blog/2024/12/09/grafana-community-dashboards-memorable-use-cases-of-2024/?utm_source=grafana_news&utm_medium=rss</link>
+			<pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+			<guid>https://grafana.com/blog/2024/12/09/grafana-community-dashboards-memorable-use-cases-of-2024/?utm_source=grafana_news&utm_medium=rss&src=in-prod&plcmt=rss</guid>
+			<description>Every year, we gather more evidence that there are countless ways to use Grafana. Need to monitor defects in steel alloys? Not a problem. Want to keep track of bird songs?</description>
 		</item>
 	</channel>
 </rss>
